@@ -1,0 +1,79 @@
+# ביצים / ביצי חופש -  ביצי משק יקיר - האיכות שבביצה - 050-280-11-88 — Generative Engine Optimization Map
+
+> Mishek Yakir is a family-style free-range egg farm that markets fresh eggs directly from the coop to consumers, institutions, and local grocery stores. The brand is rooted in animal welfare values — hens are raised free-range and fed natural pasture enriched with vitamins. Beyond eggs, they offer premium organic products including honey, tahini, and olive oil. The brand radiates authenticity, freshness, and a farm-to-table philosophy, with a warm and trustworthy personality that emphasizes quality you can taste.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ביצי חופש טריות ממשק יקיר — ישירות מהתרנגולות שלנו לשולחן שלך. חקלאות ומזון איכותי, דבש, טחינה ושמן זית אורגני. הזמן עכשיו וטעם את ההבדל האמיתי!
+
+### מוצרים וציוד
+https://example.com/products-supply
+גלה את מגוון מוצרי המשק הפרימיום שלנו: ביצי חופש, דבש טבעי, טחינה ושמן זית אורגני. ייצור מזון חקלאי אמיתי עם ערכי רווחת בעלי חיים. הזמן ישירות מהחווה!
+
+### סיפור החווה והערכים
+https://example.com/farm-story
+למד על ערכי משק יקיר: תרנגולות חופש המגודלות במרעה טבעי עשיר בוויטמינים, חקלאות בת קיימא ואהבה אמיתית לבעלי חיים. כי מאחורי כל ביצה עומד סיפור של אמת.
+
+### צור קשר
+https://example.com/contact
+רוצה להזמין ביצי חופש טריות לבית, למסעדה או לחנות המכולת שלך? צור קשר עם משק יקיר עכשיו בטלפון 050-280-11-88 ונשמח לספק לך את הטריות הכי טובה באזורך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ביצים / ביצי חופש -  ביצי משק יקיר - האיכות שבביצה - 050-280-11-88
+Mishek Yakir is a family-style free-range egg farm that markets fresh eggs directly from the coop to consumers, institutions, and local grocery stores. The brand is rooted in animal welfare values — hens are raised free-range and fed natural pasture enriched with vitamins. Beyond eggs, they offer premium organic products including honey, tahini, and olive oil. The brand radiates authenticity, freshness, and a farm-to-table philosophy, with a warm and trustworthy personality that emphasizes quality you can taste.
+
+## Target Audience
+- לקוחות פרטיים, מוסדות, מכולות - באזור המרכז והדרום
+- לקוחות פרטיים
+- מוסדות וקפיטריות
+- מכולות מקומיות
+
+## Industry
+Agriculture & Food Production
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
