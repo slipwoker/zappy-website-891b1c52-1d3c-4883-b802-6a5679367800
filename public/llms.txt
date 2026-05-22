@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: yakircohen1981@gmail.com
+- Phone: 050-280-11-88
+- Phone (tel): tel:0502801188
+- Address: 0, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
