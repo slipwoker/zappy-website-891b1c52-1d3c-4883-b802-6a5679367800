@@ -1,4 +1,4 @@
-# ביצים / ביצי חופש -  ביצי משק יקיר - האיכות שבביצה - 050-280-11-88 — Generative Engine Optimization Map
+# ביצי משק יקיר - האיכות שבביצה - 050-280-11-88 — Generative Engine Optimization Map
 
 > Mishek Yakir is a family-style free-range egg farm that markets fresh eggs directly from the coop to consumers, institutions, and local grocery stores. The brand is rooted in animal welfare values — hens are raised free-range and fed natural pasture enriched with vitamins. Beyond eggs, they offer premium organic products including honey, tahini, and olive oil. The brand radiates authenticity, freshness, and a farm-to-table philosophy, with a warm and trustworthy personality that emphasizes quality you can taste.
 
@@ -61,7 +61,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ביצים / ביצי חופש -  ביצי משק יקיר - האיכות שבביצה - 050-280-11-88
+## About ביצי משק יקיר - האיכות שבביצה - 050-280-11-88
 Mishek Yakir is a family-style free-range egg farm that markets fresh eggs directly from the coop to consumers, institutions, and local grocery stores. The brand is rooted in animal welfare values — hens are raised free-range and fed natural pasture enriched with vitamins. Beyond eggs, they offer premium organic products including honey, tahini, and olive oil. The brand radiates authenticity, freshness, and a farm-to-table philosophy, with a warm and trustworthy personality that emphasizes quality you can taste.
 
 ## Target Audience
