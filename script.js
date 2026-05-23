@@ -5137,6 +5137,25 @@ function fixContrast(){
   }
 
   async function syncCustomerDiscount() {
+    if (typeof window.__zappyFetchCustomerDiscount === 'function') {
+      try {
+        await window.__zappyFetchCustomerDiscount();
+      } catch (e) {
+        console.warn('[ZAPPY] Customer discount runtime delegate failed', e);
+      }
+      applyPricesToCards();
+      refreshProductDetailPrice();
+      if (typeof window.loadProducts === 'function') {
+        try { window.loadProducts(); } catch (e) {}
+      }
+      if (typeof window.__zappyScheduleDynamicProductGridsDiscountRefresh === 'function') {
+        try { window.__zappyScheduleDynamicProductGridsDiscountRefresh(); } catch (e) {}
+      }
+      [800, 2500].forEach(function(ms) {
+        setTimeout(refreshProductDetailPrice, ms);
+      });
+      return;
+    }
     var wid = window.ZAPPY_WEBSITE_ID;
     if (!wid) return;
     var token = localStorage.getItem('zappy_customer_token_' + wid);
